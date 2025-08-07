@@ -2,6 +2,10 @@
   "name": "salah-portfolio",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
+=======
+  "homepage": "https://salman-06.github.io/salah-portfolio",
+>>>>>>> 4567e51e5f33cee56ccd9d6929ec3282e9f3b43e
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
