@@ -42,13 +42,13 @@ function Project() {
                 <p>This project delivers a clean and professional interface for CNC machining services. With galleries, service listings, and company insights, it's crafted to impress both clients and collaborators.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>Met Studio</h2></a>
+                <a href="https://metropolitan-studio.vercel.app/" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://metropolitan-studio.vercel.app/" target="_blank" rel="noreferrer"><h2>Met Studio</h2></a>
                 <p>A dual-purpose web platform featuring a stylish product catalog on the front end and a powerful admin panel behind the scenes. It simplifies product management while maintaining a polished look for the public view.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2> GKR Hi-Tech Heavy Engineering</h2></a>
+                <a href="https://gkr-hi-tech-heavy-engineering.vercel.app/" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://gkr-hi-tech-heavy-engineering.vercel.app/" target="_blank" rel="noreferrer"><h2> GKR Hi-Tech Heavy Engineering</h2></a>
                 <p>This site showcases the precision and scale of heavy engineering projects. Built with clarity and detail in mind, it allows potential clients to view services, past works, and technical capabilities with ease.</p>
             </div>            
         </div>
